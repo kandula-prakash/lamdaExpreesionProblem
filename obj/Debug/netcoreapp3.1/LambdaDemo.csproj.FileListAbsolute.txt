@@ -1,0 +1,13 @@
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.exe
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.deps.json
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.runtimeconfig.json
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.runtimeconfig.dev.json
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.dll
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\bin\Debug\netcoreapp3.1\LambdaDemo.pdb
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.csproj.CoreCompileInputs.cache
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.dll
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.pdb
+C:\Users\prakash kandula\source\repos\LambdaDemo\LambdaDemo\obj\Debug\netcoreapp3.1\LambdaDemo.genruntimeconfig.cache
