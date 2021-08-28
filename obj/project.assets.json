@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prakash kandula\\source\\repos\\LambdaDemo\\LambdaDemo\\LambdaDemo.csproj",
-      "projectName": "LambdaDemo",
-      "projectPath": "C:\\Users\\prakash kandula\\source\\repos\\LambdaDemo\\LambdaDemo\\LambdaDemo.csproj",
+      "projectUniqueName": "C:\\Users\\prakash kandula\\source\\repos\\LambdaDemo\\LambdaDemo\\LamdaExpressionDemo.csproj",
+      "projectName": "LamdaExpressionDemo",
+      "projectPath": "C:\\Users\\prakash kandula\\source\\repos\\LambdaDemo\\LambdaDemo\\LamdaExpressionDemo.csproj",
       "packagesPath": "C:\\Users\\prakash kandula\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\prakash kandula\\source\\repos\\LambdaDemo\\LambdaDemo\\obj\\",
       "projectStyle": "PackageReference",
